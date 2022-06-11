@@ -1,0 +1,1 @@
+data <- read.csv("C:/Users/USER/Downloads/Kaggle Covid Dataset/COVID19_line_list_data.csv")
